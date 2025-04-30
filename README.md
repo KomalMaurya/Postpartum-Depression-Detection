@@ -41,6 +41,6 @@ Python, Pandas, NumPy, scikit-learn, Matplotlib, Seaborn
 ## 📌 How to Run
 
 ```bash
-git clone https://github.com/your-username/postpartum-depression-detection.git
+git clone https://github.com/KomalMaurya/postpartum-depression-detection.git
 cd postpartum-depression-detection
 jupyter notebook Postpartum_Depression.ipynb
